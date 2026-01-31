@@ -7,6 +7,7 @@ const MOCK_BOOKINGS = [
   { id: "BK-101", guestName: "Aarav Sharma", roomNumber: "101", checkIn: "2026-01-15", checkOut: "2026-01-18", amount: 37500, status: "Confirmed" },
   { id: "BK-304", guestName: "Priya Patel", roomNumber: "304", checkIn: "2026-01-16", checkOut: "2026-01-20", amount: 140000, status: "Pending" },
   { id: "BK-202", guestName: "Rohan Gupta", roomNumber: "202", checkIn: "2026-01-14", checkOut: "2026-01-16", amount: 17000, status: "Checked Out" },
+  { id: "BK-405", guestName: "Bibhash Yadav", roomNumber: "405", checkIn: "2026-01-29", checkOut: "2026-01-31", amount: 14000, status: "Confirmed" },
 ];
 
 export default function BookingsPage() {

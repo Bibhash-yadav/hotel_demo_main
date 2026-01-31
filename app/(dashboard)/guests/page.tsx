@@ -53,6 +53,15 @@ const INITIAL_GUESTS: Guest[] = [
       { room: "501", checkIn: "2024-12-01", checkOut: "2024-12-10", amount: 420000 },
     ],
   },
+  {
+    name: "Bibhash Yadav",
+    email: "yadav@email.com",
+    phone: "+91 98878 567890",
+    visits: 8,
+    status: "New",
+    rating: 4.5,
+    history: [],
+  },
 ];
 
 export default function GuestsPage() {

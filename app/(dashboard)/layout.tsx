@@ -60,7 +60,7 @@ export default function DashboardLayout({
 
         {/* Staff Terminal (COLOR UPDATED) */}
         <Link
-          href="/login"
+          href="/"
           className="
             p-8 rounded-[40px]
             bg-gradient-to-br from-indigo-600/30 to-purple-600/20
